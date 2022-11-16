@@ -1,0 +1,4 @@
+#Tue Nov 15 18:26:17 WIB 2022
+base.0=/Users/naufalabiyyu/Documents/Development/FLUTTER/learning/dicoding/restaurant_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
