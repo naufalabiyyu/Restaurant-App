@@ -22,7 +22,7 @@ flutter run
 
 ## Source
 
-[Dicoding Academy](https://www.dicoding.com/academies/195)
+[Dicoding Academy](https://www.dicoding.com/academies/195) <br>
 [Dicoding Data Restaurant API](https://restaurant-api.dicoding.dev/)
 
 ## Screenshot
